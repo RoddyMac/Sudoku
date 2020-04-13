@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SudokuLib
 {
-	class Detection
+	public class Detection
 	{
 		//Variables
 		private bool rowComplete = new bool();

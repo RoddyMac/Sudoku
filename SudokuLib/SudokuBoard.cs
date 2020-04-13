@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SudokuLib
 {
-    class SudokuBoard
+    public class SudokuBoard
     {
         //Variables
         private IndivSquare[,] intArrBoard = new IndivSquare[9,9];

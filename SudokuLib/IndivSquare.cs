@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SudokuLib
 {
-    class IndivSquare
+    public class IndivSquare
     {
         //Properties declared
         public bool[] PossibleNumbers { get; set; } = new bool[9];
