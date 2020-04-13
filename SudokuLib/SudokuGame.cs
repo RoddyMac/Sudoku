@@ -1,10 +1,15 @@
 ﻿using System;
 
-namespace SudokuGame
+namespace SudokuLib
 {
-    class SudokuGame
+    public class SudokuGame
     {
         static void Main(string[] args)
+        {
+
+        }
+
+        public void RunGame()
         {
             Console.WriteLine("Welcome to Suduko!");
 

@@ -1,4 +1,5 @@
 ﻿using System;
+using SudokuLib;
 
 namespace SudokuConsole
 {
@@ -6,7 +7,8 @@ namespace SudokuConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SudokuGame sudoku = new SudokuGame();
+            sudoku.RunGame();           
         }
     }
 }

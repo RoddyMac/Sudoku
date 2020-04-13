@@ -30,7 +30,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Programming\\Suduko\\SudokuLib\\SudokuLib.csproj": {
+                "projectPath": "D:\\Programming\\Suduko\\SudokuLib\\SudokuLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
