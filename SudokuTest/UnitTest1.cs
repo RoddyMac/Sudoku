@@ -1,4 +1,6 @@
 using NUnit.Framework;
+using SudokuLib;
+using SudokuDisplay;
 
 namespace SudokuTest
 {
