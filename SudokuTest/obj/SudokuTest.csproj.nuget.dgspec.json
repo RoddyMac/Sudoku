@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Programming\\Sudoku\\SudokuTest\\SudokuTest.csproj": {}
+    "D:\\Programming\\Sudoku\\SudokuTest\\SudokuTest.csproj": {}
   },
   "projects": {
-    "d:\\Programming\\Sudoku\\SudokuTest\\SudokuTest.csproj": {
+    "D:\\Programming\\Sudoku\\SudokuTest\\SudokuTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Programming\\Sudoku\\SudokuTest\\SudokuTest.csproj",
+        "projectUniqueName": "D:\\Programming\\Sudoku\\SudokuTest\\SudokuTest.csproj",
         "projectName": "SudokuTest",
-        "projectPath": "d:\\Programming\\Sudoku\\SudokuTest\\SudokuTest.csproj",
+        "projectPath": "D:\\Programming\\Sudoku\\SudokuTest\\SudokuTest.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "d:\\Programming\\Sudoku\\SudokuTest\\obj\\",
+        "outputPath": "D:\\Programming\\Sudoku\\SudokuTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,7 +42,7 @@
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[1.4.0, )"
+              "version": "[2.1.2, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
