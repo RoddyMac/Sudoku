@@ -1,0 +1,17 @@
+D:\Programming\Sudoku\SudokuDisplay\bin\Debug\netcoreapp3.0\SudokuDisplay.exe
+D:\Programming\Sudoku\SudokuDisplay\bin\Debug\netcoreapp3.0\SudokuDisplay.deps.json
+D:\Programming\Sudoku\SudokuDisplay\bin\Debug\netcoreapp3.0\SudokuDisplay.runtimeconfig.json
+D:\Programming\Sudoku\SudokuDisplay\bin\Debug\netcoreapp3.0\SudokuDisplay.runtimeconfig.dev.json
+D:\Programming\Sudoku\SudokuDisplay\bin\Debug\netcoreapp3.0\SudokuDisplay.dll
+D:\Programming\Sudoku\SudokuDisplay\bin\Debug\netcoreapp3.0\SudokuDisplay.pdb
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\SudokuDisplay.csprojAssemblyReference.cache
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\SudokuDisplay_MarkupCompile.cache
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\SudokuDisplay_MarkupCompile.lref
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\SudokuDisplay.g.resources
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\SudokuDisplay.AssemblyInfoInputs.cache
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\SudokuDisplay.AssemblyInfo.cs
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\SudokuDisplay.dll
+D:\Programming\Sudoku\SudokuDisplay\obj\Debug\netcoreapp3.0\SudokuDisplay.pdb

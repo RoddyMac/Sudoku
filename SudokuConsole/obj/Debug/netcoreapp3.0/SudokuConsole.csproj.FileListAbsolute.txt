@@ -1,0 +1,14 @@
+D:\Programming\Sudoku\SudokuConsole\bin\Debug\netcoreapp3.0\SudokuConsole.exe
+D:\Programming\Sudoku\SudokuConsole\bin\Debug\netcoreapp3.0\SudokuConsole.deps.json
+D:\Programming\Sudoku\SudokuConsole\bin\Debug\netcoreapp3.0\SudokuConsole.runtimeconfig.json
+D:\Programming\Sudoku\SudokuConsole\bin\Debug\netcoreapp3.0\SudokuConsole.runtimeconfig.dev.json
+D:\Programming\Sudoku\SudokuConsole\bin\Debug\netcoreapp3.0\SudokuConsole.dll
+D:\Programming\Sudoku\SudokuConsole\bin\Debug\netcoreapp3.0\SudokuConsole.pdb
+D:\Programming\Sudoku\SudokuConsole\bin\Debug\netcoreapp3.0\SudokuLib.dll
+D:\Programming\Sudoku\SudokuConsole\bin\Debug\netcoreapp3.0\SudokuLib.pdb
+D:\Programming\Sudoku\SudokuConsole\obj\Debug\netcoreapp3.0\SudokuConsole.csprojAssemblyReference.cache
+D:\Programming\Sudoku\SudokuConsole\obj\Debug\netcoreapp3.0\SudokuConsole.AssemblyInfoInputs.cache
+D:\Programming\Sudoku\SudokuConsole\obj\Debug\netcoreapp3.0\SudokuConsole.AssemblyInfo.cs
+D:\Programming\Sudoku\SudokuConsole\obj\Debug\netcoreapp3.0\SudokuConsole.csproj.CopyComplete
+D:\Programming\Sudoku\SudokuConsole\obj\Debug\netcoreapp3.0\SudokuConsole.dll
+D:\Programming\Sudoku\SudokuConsole\obj\Debug\netcoreapp3.0\SudokuConsole.pdb

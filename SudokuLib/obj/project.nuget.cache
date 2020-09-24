@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W0GRE0Vm0NlPXnq6E5YIOrGKqBVhygBvb2kPxyYt00qNga4SAL93Pes7NrazFsxtg6vq/lpGSq9c7mMt3i2BMQ==",
+  "dgSpecHash": "spqI+PvIzc9wnz2UDV1rMCAEO7iPAVnwGO+rRNK62nO1q0aAmhozk/L/tAKZZrBIbK7X0y8KDSnqh7fK42QhdA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Suduko\\SudokuLib\\SudokuLib.csproj",
+  "projectFilePath": "/mnt/d/Programming/Sudoku/SudokuLib/SudokuLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
