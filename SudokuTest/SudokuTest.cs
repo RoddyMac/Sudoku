@@ -8,7 +8,7 @@ namespace SudokuTest
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.Pass();
+            Assert.ThrowsException<T>()
         }
     }
 }
