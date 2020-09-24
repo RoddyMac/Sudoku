@@ -1,3 +1,0 @@
-D:\Programming\Sudoku\SudokuTest\obj\Debug\netcoreapp3.0\SudokuTest.csprojAssemblyReference.cache
-D:\Programming\Sudoku\SudokuTest\obj\Debug\netcoreapp3.0\SudokuTest.AssemblyInfoInputs.cache
-D:\Programming\Sudoku\SudokuTest\obj\Debug\netcoreapp3.0\SudokuTest.AssemblyInfo.cs

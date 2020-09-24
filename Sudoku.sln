@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuLib", "SudokuLib\Sudo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuConsole", "SudokuConsole\SudokuConsole.csproj", "{78289EF0-1742-4105-B881-41E526F09CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuTest", "SudokuTest\SudokuTest.csproj", "{009DA94F-6414-4566-A1FD-232564C67E4F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,17 +44,5 @@ Global
 		{78289EF0-1742-4105-B881-41E526F09CA3}.Release|x64.Build.0 = Release|Any CPU
 		{78289EF0-1742-4105-B881-41E526F09CA3}.Release|x86.ActiveCfg = Release|Any CPU
 		{78289EF0-1742-4105-B881-41E526F09CA3}.Release|x86.Build.0 = Release|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Debug|x64.Build.0 = Debug|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Debug|x86.Build.0 = Debug|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Release|x64.ActiveCfg = Release|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Release|x64.Build.0 = Release|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Release|x86.ActiveCfg = Release|Any CPU
-		{009DA94F-6414-4566-A1FD-232564C67E4F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
