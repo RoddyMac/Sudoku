@@ -37,6 +37,8 @@
                 "/consoleloggerparameters:NoSummary"
             ],
             "problemMatcher": "$msCompile"
-        }
+        },
+  
+    }
     ]
 }
