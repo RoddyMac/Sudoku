@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj": {}
+    "D:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj": {}
   },
   "projects": {
-    "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj": {
+    "D:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
+        "projectUniqueName": "D:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
         "projectName": "SudokuConsole",
-        "projectPath": "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
+        "projectPath": "D:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "d:\\Programming\\Sudoku\\SudokuConsole\\obj\\",
+        "outputPath": "D:\\Programming\\Sudoku\\SudokuConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
-                "projectPath": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj"
+              "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
+                "projectPath": "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
+    "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
+        "projectUniqueName": "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
         "projectName": "SudokuLib",
-        "projectPath": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
+        "projectPath": "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "d:\\Programming\\Sudoku\\SudokuLib\\obj\\",
+        "outputPath": "D:\\Programming\\Sudoku\\SudokuLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

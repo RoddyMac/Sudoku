@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {}
+    "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {}
   },
   "projects": {
-    "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
+    "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
+        "projectUniqueName": "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
         "projectName": "SudokuLib",
-        "projectPath": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
+        "projectPath": "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "d:\\Programming\\Sudoku\\SudokuLib\\obj\\",
+        "outputPath": "D:\\Programming\\Sudoku\\SudokuLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
