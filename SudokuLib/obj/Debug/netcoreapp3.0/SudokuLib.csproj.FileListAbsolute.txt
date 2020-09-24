@@ -1,0 +1,8 @@
+D:\Programming\Sudoku\SudokuLib\bin\Debug\netcoreapp3.0\SudokuLib.deps.json
+D:\Programming\Sudoku\SudokuLib\bin\Debug\netcoreapp3.0\SudokuLib.dll
+D:\Programming\Sudoku\SudokuLib\bin\Debug\netcoreapp3.0\SudokuLib.pdb
+D:\Programming\Sudoku\SudokuLib\obj\Debug\netcoreapp3.0\SudokuLib.csprojAssemblyReference.cache
+D:\Programming\Sudoku\SudokuLib\obj\Debug\netcoreapp3.0\SudokuLib.AssemblyInfoInputs.cache
+D:\Programming\Sudoku\SudokuLib\obj\Debug\netcoreapp3.0\SudokuLib.AssemblyInfo.cs
+D:\Programming\Sudoku\SudokuLib\obj\Debug\netcoreapp3.0\SudokuLib.dll
+D:\Programming\Sudoku\SudokuLib\obj\Debug\netcoreapp3.0\SudokuLib.pdb

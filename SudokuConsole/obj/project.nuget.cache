@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bFNQbJnkz3vJxWT+p8fr0OGF1mt5KRq1HByL1ZpMJfZDSwaQAfgbVFCrnkVCCN3dIB+9YBWKd1kX7JA0ZeBTJg==",
+  "dgSpecHash": "5Ew8MNX6lSWYTeZhcq9pahBUXaC3NuGOXKaHCbO4DjpO7B2q0iXghltQ+pDpQ0cHi5WfIE0J3+G/sMDfs0Ixiw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Suduko\\SudokuConsole\\SudokuConsole.csproj",
+  "projectFilePath": "/mnt/d/Programming/Sudoku/SudokuConsole/SudokuConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,38 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Suduko\\SudokuConsole\\SudokuConsole.csproj": {}
+    "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Suduko\\SudokuConsole\\SudokuConsole.csproj": {
+    "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Suduko\\SudokuConsole\\SudokuConsole.csproj",
+        "projectUniqueName": "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
         "projectName": "SudokuConsole",
-        "projectPath": "D:\\Programming\\Suduko\\SudokuConsole\\SudokuConsole.csproj",
+        "projectPath": "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Suduko\\SudokuConsole\\obj\\",
+        "outputPath": "d:\\Programming\\Sudoku\\SudokuConsole\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\Programming\\Suduko\\SudokuLib\\SudokuLib.csproj": {
-                "projectPath": "D:\\Programming\\Suduko\\SudokuLib\\SudokuLib.csproj"
+              "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
+                "projectPath": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj"
               }
             }
           }
@@ -44,7 +38,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -60,36 +54,30 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Programming\\Suduko\\SudokuLib\\SudokuLib.csproj": {
+    "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Suduko\\SudokuLib\\SudokuLib.csproj",
+        "projectUniqueName": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
         "projectName": "SudokuLib",
-        "projectPath": "D:\\Programming\\Suduko\\SudokuLib\\SudokuLib.csproj",
+        "projectPath": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Suduko\\SudokuLib\\obj\\",
+        "outputPath": "d:\\Programming\\Sudoku\\SudokuLib\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -100,7 +88,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -116,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
