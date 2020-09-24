@@ -43,6 +43,7 @@ namespace SudokuTest
             SudokuBoard sudoku = new SudokuBoard();
             Detection RowDetectTest = new Detection(sudoku);
             RowDetectTest.RowDetect();
+            int test = 1;
             if (RowDetectTest.RowComplete == true)
             {
                 Assert.Pass();
