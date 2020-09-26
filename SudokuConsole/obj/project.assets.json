@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
+      "projectUniqueName": "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
       "projectName": "SudokuConsole",
-      "projectPath": "D:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
+      "projectPath": "d:\\Programming\\Sudoku\\SudokuConsole\\SudokuConsole.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Sudoku\\SudokuConsole\\obj\\",
+      "outputPath": "d:\\Programming\\Sudoku\\SudokuConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,8 +50,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
-              "projectPath": "D:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj"
+            "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj": {
+              "projectPath": "d:\\Programming\\Sudoku\\SudokuLib\\SudokuLib.csproj"
             }
           }
         }
